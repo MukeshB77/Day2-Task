@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+.contain{
+
+    display: flex;
+    margin-top: 3%;
+    justify-content: center;
+}
+
+.main{
+    display:flex;
+    height: 500px;
+    width: 500px;
+    justify-content:flex-start;
+    align-content: center;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.main2{
+    display:flex;
+    height: 500px;
+    width: 500px;
+    justify-content:flex-start;
+    align-content: center;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 20px;
+}
